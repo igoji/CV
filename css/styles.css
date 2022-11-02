@@ -1,0 +1,64 @@
+main {
+    font-family: 'Times New Roman', Times, serif;
+}
+.bloque1 {
+    background-color: #E6E6E6;
+    text-align: center;
+}
+h1 {
+    color: #005677;
+    background-color: #C4C4C4;
+    font-size: 35px;
+    line-height: 150%;
+    margin: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+}
+.break {
+    height: 100px;
+}
+h2 {
+    color: #005677;
+    background-color: #C4C4C4;
+    font-size: 20px;
+    line-height: 150%;
+    margin: 0px;
+    text-align:left;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+}
+.listaDatos {
+    line-height:25px;
+    padding-bottom: 20px;
+}
+.datoPersonal {
+    font-style: italic;
+    font-weight: bold;
+}
+.listaLimpia {
+    display:inline-block;
+    list-style: none;
+}
+.años {
+    font-weight: bold;
+    margin-left: 20px;
+}
+.ligero {
+    font-weight: normal;
+    display: inline-flex;
+}
+footer {
+    color: #FFFFFF;
+    background-color: #005677;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 200%;
+    margin: 0px;
+    text-align:center;
+    text-transform: uppercase;
+    border-spacing: 20px;
+    }
+.iconos {
+    margin-left: 20px;
+}

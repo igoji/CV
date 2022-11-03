@@ -1,13 +1,25 @@
-main {
-    font-family: 'Times New Roman', Times, serif;
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .bloque1 {
-    background-color: #E6E6E6;
+    background-image: url(../img/background_header.gif);
+    background-size: cover;
     text-align: center;
 }
+
 h1 {
     color: #005677;
     background-color: #C4C4C4;
+    font-size: 35px;
+    line-height: 150%;
+    margin: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+}
+nav {
+    color: #005677;
+    background-color: #313131;
     font-size: 35px;
     line-height: 150%;
     margin: 0px;
@@ -61,4 +73,12 @@ footer {
     }
 .iconos {
     margin-left: 20px;
+    color: #FFFFFF;
+}
+.sobreMi {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    text-align: justify;
+    font-size: 2rem;
+    font-weight: bold;
 }
